@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "u/double_dose_larry"
+  name   : ""
   avatar : ""
   bio    : ""
 
