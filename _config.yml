@@ -55,12 +55,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : ""
-  avatar : ""
-  bio    : ""
-
-
 defaults:
   # _posts
   - scope:
